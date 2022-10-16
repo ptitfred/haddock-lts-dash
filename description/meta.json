@@ -1,0 +1,9 @@
+{
+    "extra": {
+        "isJavaScriptEnabled": true
+    },
+    "name": "haskell-lts.19",
+    "revision": "0",
+    "title": "Haskell - LTS.19",
+    "version": "9.0.2"
+}
